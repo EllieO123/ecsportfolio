@@ -9,7 +9,7 @@
 	margin: 0 auto;
 }
 .header {
-	background: #4F66FA;
+	background: #70DAFA;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -28,7 +28,7 @@
 	text-align: center;
 }
 .content {
-	background: #99FFF4;
+	background: #70DAFA;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -51,10 +51,10 @@ body {
 }
 
 a:link {
-     color: #000000;
+     color: #4F66FA;
 }
 a:visited {
-     color: #000;
+     color: #70AEFA;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
